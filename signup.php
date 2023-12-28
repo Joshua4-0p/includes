@@ -31,7 +31,7 @@
     
       {
        
-         echo "please enter some valid information!";
+         echo "please enter some valid information!" ;
       }
  
     }  
